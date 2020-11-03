@@ -1,0 +1,164 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    background-color: rgb(105, 103, 103);
+}
+
+.header h1 {
+    font-family: 'Roboto Slab', serif;
+    color: white;
+    text-align: center;
+    letter-spacing: 2px;
+
+}
+.header h1 span {
+    font-family: 'Roboto Slab', serif;
+    color: rgb(114, 9, 9);
+    text-align: center;
+    letter-spacing: 2px;
+
+
+}
+.header {
+    padding: 20px;
+    height: 50px;
+}
+
+.top {
+    height: 700px;
+    background-image: url(women.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+
+
+.about1 {
+    height: 280px;
+    background-image: url(chair.jpg);
+    background-size: cover;
+    border: solid 1px rgb(105, 103, 103);
+    padding-bottom: 40px;
+    margin: 30px 20px 0 20px ;
+}
+.about2 {
+    height: 350px;
+    border: solid 1px rgb(105, 103, 103);
+    margin: 0 20px;
+    background-color: white;
+
+}
+.title1 {
+    font-size: 30px;
+    font-weight: bold;
+    padding: 10px;
+
+}
+.title2 {
+    font-weight: bold;
+    padding-left: 10px;
+}
+
+.about2 p {
+    padding: 10px;
+}
+a.btn--orange {
+    padding: 15px 70px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    margin-left: 20%;
+    color: #fff;
+    font-size: 20px;
+    background-color: #eb6100;
+    border-bottom: 5px solid #b84c00;
+  }
+  a.btn--orange:hover {
+    margin-top: 3px;
+    color: #fff;
+    background: #f56500;
+    border-bottom: 2px solid #b84c00;
+  }
+  a.btn--shadow {
+    -webkit-box-shadow: 0 3px 5px rgba(0, 0, 0, .3);
+    box-shadow: 0 3px 5px rgba(0, 0, 0, .3);
+  }
+
+
+.style {
+    height: 70px;
+}
+.style1 {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 50px;
+    color: white;
+
+}
+.style2 {
+    text-align: center;
+    color: white;
+}
+
+
+.style-img {
+    height: 400px;
+    background-image: url(pama.jpg);
+}
+.staff-img {
+    height: 400px;
+    margin: 20px 20px 0 20px;
+    background-image: url(santa.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.staff-text {
+    height: 350px;
+    border: solid 1px rgb(105, 103, 103);
+    margin: 0 20px;
+    background-color: white;
+
+}
+.staff1 {
+    font-size: 30px;
+    font-weight: bold;
+    padding: 10px;
+
+}
+.staff2 {
+    font-weight: bold;
+    padding-left: 10px;
+}
+.staff-text p {
+    padding: 10px;
+}
+.staff3 {
+    height: auto;
+}
+
+
+.access-top {
+    height: 50px;
+    margin:  20px;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+
+
+}
+.access iframe{
+    height: 350px;
+    width: 100%;
+}
+
+.footer {
+    height: 200px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
